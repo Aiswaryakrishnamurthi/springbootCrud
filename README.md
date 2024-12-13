@@ -162,9 +162,3 @@ src/
 3. **Dependency Issues**:
    - Run `mvn clean install` to resolve dependency problems.
 
-## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
